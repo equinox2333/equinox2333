@@ -39,7 +39,7 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 ### 🎓 &nbsp;Education
 
 - **Georgia Institute of Technology** - M.S. in Computer Science, 2023 - 2025
-- **Tsinghua University** - B.E. in Electronic Engineering, 2018 - 2023
+- **Tsinghua University** - B.E. in Electronic Information Science, 2018 - 2023
 
 ---
 
